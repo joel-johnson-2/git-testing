@@ -1,3 +1,4 @@
-# git-testing
+# This is Joel Johnson's git-testing project
 
-# this is just a test
+I am reformating this **really bad** readme
+
