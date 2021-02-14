@@ -1,4 +1,5 @@
 # This is Joel Johnson's git-testing project
 
-I am reformating this **really bad** readme
+These are the steps to run this:
+  none bruv
 
