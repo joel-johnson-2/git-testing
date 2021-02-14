@@ -1,4 +1,4 @@
 require('dotenv').config();
 
 console.log(process.env.TEST);
-console.log(process.env.API_KEY);
+console.log(`https://api.test.com/news?api+key${process.env.API_KEY}`);
